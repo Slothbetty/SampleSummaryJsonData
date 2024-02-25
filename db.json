@@ -1,6 +1,5 @@
 {
-    "job_summary": [
-        {
+    "job_summary": {
             "id": "1",
             "title": "Software Engineer II",
             "company": "Google",
@@ -9,5 +8,4 @@
             "html": "We're seeking a dedicated Software Engineer to join our team. The ideal candidate will be responsible for developing and implementing software solutions, gathering user requirements, and ensuring system functionality. Proficiency in languages like <mark>Java</mark>, <mark>Ruby on Rails</mark>, or <mark>.NET</mark> is essential. Candidates should have a strong grasp of the software development life cycle (SDLC) and be committed to delivering high-quality, innovative software that meets coding standards and technical specifications.",
             "text": "We're seeking a dedicated Software Engineer to join our team. The ideal candidate will be responsible for developing and implementing software solutions, gathering user requirements, and ensuring system functionality. Proficiency in languages like Java, Ruby on Rails, or .NET is essential. Candidates should have a strong grasp of the software development life cycle (SDLC) and be committed to delivering high-quality, innovative software that meets coding standards and technical specifications."
         }
-    ]
 }
